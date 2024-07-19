@@ -74,7 +74,11 @@ main {
   padding: 40px 20px;
   text-align: center;
   color: #fff;
-  max-width: 4000px;
+  
+}
+.banner img{
+  width:1950px;
+ 
 }
 
 .banner h2 {
